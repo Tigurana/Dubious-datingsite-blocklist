@@ -1,8 +1,10 @@
 #Titel: Blockierliste unseriöser Datingportalseiten
 #Autor: Tigurana
 #Die Liste wird stetig erweitert.
-
-#Welche Eigenschaften müssen Anbieter erfüllt um auf diese Blockierliste zu landen?
+#
+#Welche Eigenschaften müssen Anbieter erfüllt um auf diese Blockierliste zu landen? 
+#Dabei reicht ein einziger Punkt aus um die Liste zu landen. 
+#
 #1. Anbieter müssen Fake-Profile verwenden.
 #2. Anbieter die versuchen ihre Kunden in eine Abo-Falle zu locken.
 #3. Anbieter die kein Support haben. (Nicht Antworten. Anfragen ihrer Kunden ignorieren.)
@@ -11,9 +13,9 @@
 #6. Anbieter die eine ordentliche Kündigung Seiten des Nutzers ignorieren, hinauszögern usw.
 #7. Anbieter mit Täuschungsversuchen (z.B. Falschangaben beim Gesamtbetrag).
 #8. Anbieter die bei einer nicht rechtlichen Zahlungsfoderung, ein Inkassobüro oder eine Rechtsanwaltskanzlei 
-    einschalten und den Kunden unter Angst und Stress setzten.
+#   einschalten und den Kunden unter Angst und Stress setzten.
 #9. Weiter Punkte können folgen.
-
+#
 #Version: 0.256
 #----------------------------------------
 0.0.0.0 1-2-love.eu
