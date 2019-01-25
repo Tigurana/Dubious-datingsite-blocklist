@@ -1,3 +1,3 @@
-Unseriöse Dating-Portale Blocklist
+# Unseriöse Dating-Portale Blocklist
 
-Diese Liste soll Sie vor unseriösen Anbietern und damit vor Abo-Fallen schützt.
+# Diese Liste soll Sie vor unseriösen Anbietern und damit vor Abo-Fallen schützt.
